@@ -1,6 +1,6 @@
-# Hyderabad E-Commerce Data Engineering Pipeline
+# Hyderabad E Commerce Data Engineering Pipeline
 
-An end-to-end data engineering and analytics project that transforms raw Hyderabad e-commerce data into a validated analytical model and Power BI dashboard.
+An end to end data engineering and analytics project that transforms raw Hyderabad E commerce data into a validated analytical model and Power BI dashboard.
 
 ## 🚀 Pipeline
 
