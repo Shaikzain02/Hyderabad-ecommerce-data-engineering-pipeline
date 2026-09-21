@@ -1,0 +1,17 @@
+﻿Column,Business Meaning,Data Quality Rule
+Order_ID,Transaction identifier,Should be unique after deduplication
+Customer_ID,Customer identifier,Should match Customer_Master
+Order_Date,Date of transaction,Must be a valid date in 2025
+Product_ID,Product identifier,Should match Product_Master
+Product_Name,Product name,Standardize and validate against Product_Master
+Category,Product category,Standardize text
+Quantity,Units sold,Must be greater than 0
+Unit_Price,Selling price per unit,Must be greater than 0
+Discount,Discount rate,Expected range 0 to 0.20
+Area,Hyderabad locality,Validate against Location_Master
+City,City,Expected Hyderabad
+State,State,Expected Telangana
+Zone,Hyderabad geographic zone,Validate against Location_Master
+Sales_Channel,Sales channel,Standardize text
+Payment_Method,Payment method,Standardize text
+Order_Status,Order lifecycle status,Standardize text and define business treatment

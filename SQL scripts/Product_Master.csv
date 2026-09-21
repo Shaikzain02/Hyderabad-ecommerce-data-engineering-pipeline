@@ -1,0 +1,19 @@
+﻿Product_ID,Product_Name,Category,Standard_Price
+P001,Dell Inspiron 15,Laptop,62000
+P002,HP Pavilion 14,Laptop,68000
+P003,Lenovo IdeaPad Slim 5,Laptop,59000
+P004,Samsung Galaxy A55,Smartphone,36000
+P005,OnePlus 13R,Smartphone,42000
+P006,iPhone 16,Smartphone,78000
+P007,Sony WH-1000XM5,Audio,29000
+P008,JBL Tune 770NC,Audio,7500
+P009,Dell 24 Monitor,Monitor,14500
+P010,LG UltraGear 27,Monitor,28000
+P011,Logitech K380 Keyboard,Accessories,3200
+P012,Logitech MX Master 3S,Accessories,8500
+P013,HP Wireless Mouse,Accessories,1600
+P014,Samsung Galaxy Tab S9,Tablet,52000
+P015,Apple iPad Air,Tablet,65000
+P016,Green Soul Monster Chair,Furniture,13500
+P017,IKEA Linnmon Desk,Furniture,9500
+P018,American Tourister Backpack,Bags,4200
